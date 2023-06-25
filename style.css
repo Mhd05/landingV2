@@ -126,7 +126,11 @@ header {
   }
 
   .button-contact{
-    margin-left: 100px;
+     border-radius: 4px;
+     padding: 20px 50px;
+     font-size: 20px;
+     font-weight: 700;
+     margin-left: 100px;
   }
 
   
